@@ -1,7 +1,3 @@
-[![arXiv](https://img.shields.io/badge/arXiv-2505.07430-b31b1b.svg)](https://doi.org/10.48550/arXiv.2505.07430)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
-[![Python](https://img.shields.io/badge/Python-3.10%2B-green.svg)]()
-
 # Comparative Sentiment Analysis of Public Perception During Health Crises: COVID-19 vs. Monkeypox Using Advanced Machine Learning
 
 ![Certificate of Appreciation](certificate-of-appreciation.png)
@@ -53,7 +49,8 @@ Published in the 3rd International Conference on Big Data, IoT and Machine Learn
 
 ## Preprint
 
-**Preprint (arXiv):** [https://doi.org/10.48550/arXiv.2505.07430](https://doi.org/10.48550/arXiv.2505.07430)
+This is the preprint version of the paper, available on arXiv:  
+[https://doi.org/10.48550/arXiv.2505.07430](https://doi.org/10.48550/arXiv.2505.07430)
 
 ---
 

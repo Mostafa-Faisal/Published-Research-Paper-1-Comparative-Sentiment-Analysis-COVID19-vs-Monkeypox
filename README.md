@@ -45,13 +45,13 @@ Published in the 3rd International Conference on Big Data, IoT and Machine Learn
 >
 > Thrilled to have received a certificate of recognition for this milestone.
 
-```
-
+---
 
 ## Preprint
 
 This is the preprint version of the paper, available on arXiv:  
 [https://doi.org/10.48550/arXiv.2505.07430](https://doi.org/10.48550/arXiv.2505.07430)
+
 ---
 
 ## Citation

@@ -10,7 +10,7 @@ This repository contains the research paper and associated materials for:
 
 **Comparative Sentiment Analysis of Public Perception During Health Crises: COVID-19 vs. Monkeypox Using Advanced Machine Learning**
 
-Presented at the **3rd International Conference on Big Data, IoT and Machine Learning (BIM 2025)**, Dhaka International University, Bangladesh (September 25–27, 2025).
+Presented at the **[3rd International Conference on Big Data, IoT and Machine Learning (BIM 2025)](https://confbim.com/)**, Dhaka International University, Bangladesh (September 25–27, 2025).
 
 ### Abstract
 
